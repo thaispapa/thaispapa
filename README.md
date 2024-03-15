@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋</h1>
+<h1 align="center"> </h1>
 
 <div align="center">
   <a href="https://github.com/thaispapa">
