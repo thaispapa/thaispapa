@@ -10,6 +10,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,powershell,vim,debian,kali,ubuntu" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,html,css,c,python" />
   </a>
