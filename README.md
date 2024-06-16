@@ -8,4 +8,4 @@
 
 🔍 Fun fact about me: I'm passionate about learning new languages and exploring different cultures.
 
-📊 I spent a year dedicating my studies to data science with Python.
+📊 I spent a year dedicating my studies to data science with python.
