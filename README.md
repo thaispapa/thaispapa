@@ -4,6 +4,6 @@
 
 📚 I'm currently deepening my knowledge in endpoint security, network defense, cyber threat management and ethical hacking.
 
-🔍 Fun fact about me: I love learning about new languages and different cultures.
+🔍 Fun fact about me: I love learning new languages and exploring different cultures.
 
-📊 I spent a year dedicating my studies to data science with python.
+📊 I spent a year studying data science with Python, but after my first internship, I found my passion in cybersecurity.
