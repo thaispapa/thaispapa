@@ -4,4 +4,4 @@
 
 💻 SOC Analyst Intern.
 
-💡 I'm expanding my knowledge in network defense, ethical hacking, and machine learning.
+💡 I'm expanding my knowledge in network defense and machine learning.
