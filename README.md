@@ -2,6 +2,6 @@
 
 🎓 I'm an undergraduate student at the Instituto Federal de Educação, Ciência e Tecnologia do Ceará, majoring in Computer Engineering.
 
-💻 SOC Analyst Intern.
+💻 Junior SOC Analyst.
 
 💡 I'm expanding my knowledge in network defense and machine learning.
