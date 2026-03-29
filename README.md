@@ -4,4 +4,4 @@
 
 💻 Junior SOC Analyst.
 
-💡 I'm expanding my knowledge in network defense and machine learning.
+💡 Currently studying pentesting.
