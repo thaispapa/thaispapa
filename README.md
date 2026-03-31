@@ -6,7 +6,7 @@
 
 💡 Currently studying pentesting.
 
-![](<img width="500" height="279" alt="image" src="https://github.com/user-attachments/assets/bf759854-7cb4-4cb4-aabf-6e78818510d7" />)
+![](typing.gif)
 
 ### Linguagens de Programação
 
