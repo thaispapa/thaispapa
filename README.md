@@ -6,7 +6,7 @@
 
 💡 Currently studying pentesting.
 
-![]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://animesher.com/entry/sad-quote-pc-1652699/))
+![](https://animesher.com/entry/sad-quote-pc-1652699/)
 
 ### Linguagens de Programação
 
