@@ -20,4 +20,11 @@
     <img src="https://img.shields.io/badge/-QRadar-1C354A?style=for-the-badge&logo=IBM&logoColor=white" />
     <img src="https://img.shields.io/badge/-Trend_Micro_Vision_One-E60716?style=for-the-badge&logo=TrendMicro&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-64A324?style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SentinelOne-6401e8?style=for-the-badge&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-Rapid7-e94d1d?style=for-the-badge&logoColor=ffffff" />
+</div>
+
+### 🛡️ Outras Tecnologias
+<div align="left">
+    <img src="https://img.shields.io/badge/-Cloudfare-f38020?style=for-the-badge&logo=cloudflare&logoColor=ffffff" />
 </div>
