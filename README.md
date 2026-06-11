@@ -12,7 +12,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Static Badge](https://img.shields.io/badge/-PowerShell-85cae7?style=for-the-badge&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/-PowerShell-002456?style=for-the-badge&logoColor=ffffff)
 
 ### 🛡️ SIEM & XDR
 <div align="left">
