@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/-Rapid7-e94d1d?style=for-the-badge&logoColor=ffffff" />
 </div>
 
-### 🛡️ Outras Tecnologias
+### 🛡️ Security & Infrastructure
 <div align="left">
     <img src="https://img.shields.io/badge/-Cloudfare-f38020?style=for-the-badge&logo=cloudflare&logoColor=ffffff" />
 </div>
