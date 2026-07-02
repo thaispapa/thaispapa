@@ -14,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/-PowerShell-002456?style=for-the-badge&logoColor=ffffff)
 
-### 🛡️ SIEM & XDR
+### SIEM & XDR
 <div align="left">
     <img src="https://img.shields.io/badge/-LogRhythm-0058B5?style=for-the-badge&logo=LogRhythm&logoColor=white" />
     <img src="https://img.shields.io/badge/-QRadar-1C354A?style=for-the-badge&logo=IBM&logoColor=white" />
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/-Rapid7-e94d1d?style=for-the-badge&logoColor=ffffff" />
 </div>
 
-### 🛡️ Security & Infrastructure
+### Security & Infrastructure
 <div align="left">
     <img src="https://img.shields.io/badge/-Cloudfare-f38020?style=for-the-badge&logo=cloudflare&logoColor=ffffff" />
 </div>
